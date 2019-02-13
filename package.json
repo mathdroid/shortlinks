@@ -1,0 +1,15 @@
+{
+  "baseUrl": "https://odi.wtf",
+  "name": "shortlinks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mathdroid/shortlinks.git",
+  "author": "<muhammad.mustadi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  },
+  "scripts": {
+    "shorten": "netlify-shortener"
+  }
+}
